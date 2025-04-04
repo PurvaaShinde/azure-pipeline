@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "azureproject1",
+      "script": "index.js"
+    }
+  ]
+}
