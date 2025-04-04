@@ -1,0 +1,13 @@
+{
+  "name": "azureproject1",
+  "version": "1.0.0",
+  "description": "Hello World Node.js app with Azure Pipeline",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Build step (no build needed for this simple app)'",
+    "test": "echo 'No tests yet' && exit 0"
+  },
+  "author": "PurvaaShinde",
+  "license": "MIT"
+}
